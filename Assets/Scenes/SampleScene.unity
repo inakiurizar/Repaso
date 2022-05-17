@@ -317,6 +317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   brickPrefab: {fileID: 1337962622230256, guid: 5c892a609846dd747814a9b62ff084d4,
     type: 2}
+  txtOffset: {fileID: 696852235}
 --- !u!114 &288728021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -604,13 +605,13 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 637830010}
   m_TextComponent: {fileID: 696852235}
   m_Placeholder: {fileID: 970756015}
-  m_ContentType: 2
+  m_ContentType: 3
   m_InputType: 0
   m_AsteriskChar: 42
-  m_KeyboardType: 4
+  m_KeyboardType: 2
   m_LineType: 0
   m_HideMobileInput: 0
-  m_CharacterValidation: 1
+  m_CharacterValidation: 2
   m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
